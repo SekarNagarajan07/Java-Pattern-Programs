@@ -5,3 +5,84 @@ pattern1:
 1 2 3
 1 2 3 4
 1 2 3 4 5
+
+pattern2:
+
+A
+A B
+A B C
+A B C D
+A B C D E
+
+pattern3:
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
+pattern4:
+
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+
+pattern5:
+
+A
+B B
+C C C
+D D D D
+E E E E E
+
+pattern6:
+
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
+
+pattern7:
+
+    1
+   1 2
+  1 2 3
+ 1 2 3 4
+1 2 3 4 5
+
+pattern8:
+
+    5
+   4 5
+  3 4 5
+ 2 3 4 5
+1 2 3 4 5
+
+pattern9:
+
+    A
+   A B
+  A B C
+ A B C D
+A B C D E
+
+pattern10:
+
+    E
+   D E
+  C D E
+ B C D E
+A B C D E
+
+pattern11:
+
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+

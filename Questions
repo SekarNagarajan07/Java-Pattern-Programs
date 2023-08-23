@@ -267,6 +267,109 @@ A B C D E
 
 pattern31:
 
+E D C B A
+D C B A
+C B A
+B A
+A
+B A
+C B A
+D C B A
+E D C B A
 
+pattern32:
+
+* * * * *
+* * * *
+* * *
+* *
+*
+* *
+* * *
+* * * *
+* * * * *
+
+pattern33:
+
+      1
+    1 2 1
+  1 2 3 2 1
+1 2 3 4 3 2 1
+
+pattern34:
+
+     A
+   A B A
+  A B C B A
+A B C D C B A
+
+pattern35:
+
+1 0 0 0 0
+0 2 0 0 0
+0 0 3 0 0
+0 0 0 4 0
+0 0 0 0 5
+
+pattern36:
+
+1 1 1 1 1
+1 1 1 2 2
+1 1 3 3 3
+1 4 4 4 4
+5 5 5 5 5
+
+pattern37:
+
+
+A A A A A
+A A A B B
+A A C C C
+A D D D D
+E E E E E
+
+pattern38:
+
+     1
+    1 2
+   1 2 3
+  1 2 3 4
+ 1 2 3 4 5
+  1 2 3 4
+   1 2 3
+    1 2
+     1
+
+pattern39:
+
+     A
+    A B
+   A B C
+  A B C D
+ A B C D E
+  A B C D
+   A B C
+    A B
+     A
+
+pattern40:
+
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+ * * * *
+  * * *
+   * *
+    *
+
+pattern41:
+
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
 
 

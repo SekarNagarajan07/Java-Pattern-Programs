@@ -86,3 +86,187 @@ pattern11:
  * * * *
 * * * * *
 
+pattern12:
+
+    1
+   2 2
+  3 3 3
+ 4 4 4 4
+5 5 5 5 5
+
+pattern13:
+
+    A
+   B B
+  C C C
+ D D D D
+E E E E E
+
+pattern14:
+
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+
+pattern15:
+
+5 4 3 2 1
+5 4 3 2
+5 4 3
+5 4
+5
+
+pattern16:
+
+5
+5 4
+5 4 3
+5 4 3 2
+5 4 3 2 1
+
+pattern17:
+
+1
+2  3
+4  5  6
+7  8  9  10
+11 12 13 14 15
+
+pattern18:
+
+A B C D E
+A B C D
+A B C
+A B
+A
+
+pattern19:
+
+E D C B A
+E D C B
+E D C
+E D
+E
+
+pattern20:
+
+E
+E D
+E D C
+E D C B
+E D C B A
+
+pattern21:
+
+A
+B C
+D E F
+G H I J
+K L M N O
+
+pattern22:
+
+    1
+   1 1
+  1 2 1
+ 1 3 3 1
+1 4 6 4 1
+
+pattern23:
+
+    A
+   A A
+  A B A
+ A C C A
+A D F D A
+
+pattern24:
+
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+
+pattern25:
+
+A
+A B
+A B C
+A B C D
+A B C D E
+A B C D
+A B C
+A B
+A
+
+pattern26:
+
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * *
+* *
+*
+
+pattern27:
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
+  * * * *
+    * * *
+      * *
+        *
+
+pattern28:
+
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+pattern29:
+
+5 4 3 2 1
+4 3 2 1
+3 2 1
+3 2
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+pattern30:
+
+A B C D E
+A B C D
+A B C
+A B
+A
+A B
+A B C
+A B C D
+A B C D E
+
+pattern31:
+
+
+
+

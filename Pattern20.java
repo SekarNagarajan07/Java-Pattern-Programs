@@ -5,7 +5,7 @@
 //        E D C
 //        E D C B
 //        E D C B A
-class Program20 {
+class Pattern20 {
     public static void main(String[] args) {
         int alpha = 65;
         for (int i= 5;i>=1;i--){

@@ -5,7 +5,7 @@
 //      3 3 3
 //     4 4 4 4
 //    5 5 5 5 5
-class Program12 {
+class Pattern12 {
     public static void main(String[] args) {
         int n = 5;
         for (int i = 1;i<=n;i++){

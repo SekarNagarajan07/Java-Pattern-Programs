@@ -5,7 +5,7 @@
 //      C C C
 //     D D D D
 //    E E E E E
-public class Program13 {
+public class Pattern13 {
     public static void main(String[] args) {
         int alpha = 65;
         int n = 5;

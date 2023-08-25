@@ -5,7 +5,7 @@
 //        4  5  6
 //        7  8  9  10
 //        11 12 13 14 15
-class Program17 {
+class Pattern17 {
     public static void main(String[] args) {
         int k = 1;
 
